@@ -6,3 +6,5 @@ This is an introductory tutorial project for using React. It runs on a local env
   2. Download the project files onto your local machine.
   3. Go to the project directory and run the command "npm start".
   4. Play some Tic-Tac-Toe!
+
+_Note_: The HTML, CSS, and JavaScript files can be found within the _src_ folder.
